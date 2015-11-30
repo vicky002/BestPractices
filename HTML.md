@@ -1,5 +1,9 @@
+[![badge](https://img.shields.io/badge/BestPractices-v.0.0.1-red.svg)](https://github.com/vicky002/BestPractices)
+
+
 HTML Best Practices  Credits - [@hail2u]
 ===================
+
 
 For writing maintainable and scalable HTML documents.
 

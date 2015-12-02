@@ -6,16 +6,16 @@ All credit - @[caarlos0](https://github.com/caarlos0) [![badge](https://img.shie
 A practical guide through all sort of nonsense things people should not do while coding Java.
 
 ## Basics
-- [Syntax]()
-- [Exceptions]()
-- [120c]()
-- [Whitespaces]()
-- [Classes]()
+- [Syntax](https://github.com/vicky002/BestPractices/blob/master/Java/basics/syntax.md)
+- [Exceptions](https://github.com/vicky002/BestPractices/blob/master/Java/basics/exceptions.md)
+- [120c](https://github.com/vicky002/BestPractices/blob/master/Java/basics/120c.md)
+- [Whitespaces](https://github.com/vicky002/BestPractices/blob/master/Java/basics/whitespaces.md)
+- [Classes](https://github.com/vicky002/BestPractices/blob/master/Java/basics/classes.md)
 - [Methods]()
-- [Generics]()
-- [Other language basics]()
+- [Generics](https://github.com/vicky002/BestPractices/blob/master/Java/basics/generics.md)
+- [Other language basics](https://github.com/vicky002/BestPractices/blob/master/Java/basics/other-language-basics.md)
 ## Java EE
-- [JPA]()
+- [JPA](https://github.com/vicky002/BestPractices/blob/master/Java/jee/jpa.md)
 
 
 Other Best Practice Guides

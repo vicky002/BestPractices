@@ -5,3 +5,4 @@ Best practices of everything in Computer Science! :+1:
 
 
 - [HTML Bestpractices](https://github.com/vicky002/BestPractices/blob/master/HTML.md)
+- [Java](https://github.com/vicky002/BestPractices/blob/master/Java/main.md)
